@@ -1,4 +1,4 @@
-# Soda Theme
+# zBlack Theme
 Dark custom UI theme for NuSphere PhpED.
 
 ### Version
